@@ -26,7 +26,7 @@ class Program
         video3.AddComment(new Comment("Jim", "Are you crazy!"));
         video3.AddComment(new Comment("Richard", "What are you talking about?!"));
         video3.AddComment(new Comment("Joy", "I agree. I love Mondays!"));
-        video3.AddComment(new Comment("Becky", "But what about Sundays? I love going to church."));
+        video3.AddComment(new Comment("Becky", "But what about Sundays? I love going to church!"));
         videos.Add(video3);
 
 

@@ -31,7 +31,7 @@ public class Video
 
         foreach (var comment in _comments)
         {
-            Console.WriteLine($"{comment.Name()}: {comment.Text()}");
+            Console.WriteLine($"{comment.GetName()}: {comment.GetText()}");
         }
         Console.WriteLine();
     }
